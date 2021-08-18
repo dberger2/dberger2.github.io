@@ -1,0 +1,13 @@
+What do you think being a data scientist is about?
+
+Being a data scientist is about analyzing, interpreting, and communicating data that a person or organization may be interested in to answer questions or help develop a solutions.  
+
+What do you see as the major duties and/or knowledge areas?  
+
+The major duties or knowledge areas for a data scientist are a statistics background, coding knowledge, and data visualization and/or communication techniques.   More specifically, a data scientist should be able to develop models, pull and manipulate data, leverage a multitude of programming languages and applications, and be able to communicate this work to machine learning engineers, software engineers, and business personnel who make key decisions for the organization but who may not have the quantitative or technical back ground that the technical team possesses. Having a skill set in these broad areas should enable a team member to effectively perform in roles supporting data science.  
+
+What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
+
+I think one of the articles (Data Scientist vs Statistician, https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f) really summarizes an answer to this question best.  “A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician.”  Put simply, a data scientist requires a strong understanding in applied statistics and modeling in order to perform duties required for a data scientist role, however may not use the full breath of statistics in their day to day work.  A statistician will likely be using all aspects of applied and statistical theory in order to design experiments in order to make inferences.  The two fields rely on data, however a statistician may use smaller amounts of it (sample size of 30 for example) and a data scientist may use troves of it (millions of rows in a database) for example.
+
+Personally, I see myself having one foot in each area.  On the statistics side, I will have knowledge in the applied and modeling areas of the field.  On the data side, I see myself as building coding knowledge in order to pull, manipulate, analyze, and study data.
