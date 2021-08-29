@@ -15,7 +15,7 @@ output:
 urlcolor: blue
 ---
 
-Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
+ Test Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
 
 I live in Charlotte NC with my family, dog, and two guninea pigs.
 
