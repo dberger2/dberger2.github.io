@@ -2,6 +2,17 @@
 layout: page
 title: About Me
 permalink: /about/
+output:
+  html_document:
+    theme: readable
+    code_folding: show
+    df_print: paged
+    highlight: tango
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+urlcolor: blue
 ---
 
 Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
