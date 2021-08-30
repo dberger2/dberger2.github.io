@@ -30,6 +30,6 @@ Very much looking forward to enjoying some of the amenities Charlotte has once t
 
 ![Whitewater Center]("https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg")
 
-#### Contact me
+# Contact me
 
 [NCSU Email](dberger2@NCSU.edu)
