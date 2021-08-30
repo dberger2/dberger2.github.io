@@ -28,7 +28,7 @@ Enjoying time to visit some of the parks and see the views in the appalachains!
 
 Very much looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as the US National White Water Center!
 
-![]("https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg")
+![](https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg)
 
 ## Contact me
 
