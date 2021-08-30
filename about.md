@@ -16,13 +16,13 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 I can think of better places to be than at the beach!
 
-![The Beach]("https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp")
+[https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp]
 
 ## Hiking!
 
 Enjoying time to visit some of the parks and see the views in the appalachains!
 
-![Appalachians]("https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg")
+[https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg]
 
 ## Local things to do in Charlotte
 
