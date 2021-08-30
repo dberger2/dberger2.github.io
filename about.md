@@ -16,19 +16,19 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 I can think of better places to be than at the beach!
 
-![The Beach]("https://thisisraleigh.com/wp-content/uploads/2020/08/things-to-do-in-obx.jpg")
+![The Beach]("https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp")
 
 ## Hiking!
 
 Enjoying time to visit some of the parks and see the views in the appalachains!
 
-![Appalachians]("https://lp-cms-production.imgix.net/2019-06/GettyImages-163642367_super.jpg?auto=format&fit=crop&ixlib=react-8.6.4&h=520&w=1312&q=75&dpr=1")
+![Appalachians]("https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg")
 
 ## Local things to do in Charlotte
 
 Very much looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as the US National White Water Center!
 
-![Whitewater Center]("https://d2j8c2rj2f9b78.cloudfront.net/uploads/us-national-whitewater-center/MA_LaborDay-1168.jpg")
+![Whitewater Center]("https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg")
 
 #### Contact me
 
