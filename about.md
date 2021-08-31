@@ -1,6 +1,7 @@
 ---
 title: About Me
 permalink: /about/
+url: "https://github.com/dberger2/dberger2.github.io"
 output: page
 ---
 
