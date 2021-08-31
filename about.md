@@ -5,7 +5,7 @@ url: "https://github.com/dberger2/dberger2.github.io"
 output: page
 ---
 
- test Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
+ Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
 
 I live in Charlotte NC with my family, dog, and two guninea pigs.
 
