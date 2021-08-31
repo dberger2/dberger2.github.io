@@ -17,7 +17,7 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 I can think of better places to be than at the beach!
 
-![OBX](https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp)
+![OBX](https://github.com/dberger2/dberger2.github.io/blob/master/OBX.webp)
 
 ## Hiking!
 
