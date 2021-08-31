@@ -23,7 +23,7 @@ I can think of better places to be than at the beach!
 
 Enjoying time to visit some of the parks and see the views in the appalachains!
 
-![Hiking](https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg)
+![Hiking](https://github.com/dberger2/dberger2.github.io/blob/master/_posts/Mountains.jpg)
 
 ## Local things to do in Charlotte
 
