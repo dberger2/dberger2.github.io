@@ -16,19 +16,19 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 I can think of better places to be than at the beach!
 
-![](https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp)
+![OBX](https://github.com/dberger2/dberger2.github.io/blob/master/images/OBX.webp)
 
 ## Hiking!
 
 Enjoying time to visit some of the parks and see the views in the appalachains!
 
-![](https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg)
+![Hiking](https://github.com/dberger2/dberger2.github.io/blob/master/images/Mountains.jpg)
 
 ## Local things to do in Charlotte
 
 Very much looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as the US National White Water Center!
 
-![](https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg)
+![Rafting](https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg)
 
 ## Contact me
 
