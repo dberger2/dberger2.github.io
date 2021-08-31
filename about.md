@@ -1,7 +1,6 @@
 ---
 title: About Me
 permalink: /about/
-url: "https://github.com/dberger2/dberger2.github.io"
 output: page
 ---
 
@@ -17,19 +16,19 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 I can think of better places to be than at the beach!
 
-![OBX](https://github.com/dberger2/dberger2.github.io/blob/master/OBX.webp)
+![OBX](/images/OBX.webp)
 
 ## Hiking!
 
 Enjoying time to visit some of the parks and see the views in the appalachains!
 
-![Hiking](https://github.com/dberger2/dberger2.github.io/blob/master/_posts/Mountains.jpg)
+![Hiking](/images/Mountains.jpg)
 
 ## Local things to do in Charlotte
 
 Very much looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as the US National White Water Center!
 
-![Rafting](https://github.com/dberger2/dberger2.github.io/blob/master/images/whitewater.jpg)
+![Rafting](/images/whitewater.jpg)
 
 ## Contact me
 
