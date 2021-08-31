@@ -4,7 +4,7 @@ permalink: /about/
 output: page
 ---
 
-test Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
+Greetings!  My name is Dave and I'm enrolled in the Online NCSU Applied Statistics and Data Science Certificate program.
 
 I live in Charlotte NC with my family, dog, and two guninea pigs.
 
@@ -14,13 +14,13 @@ In our free time, we certainly enjoy getting out and seeing what North Carolina 
 
 ## The beach!
 
-I can think of better places to be than at the beach!
+I can think of better places to be than all the beaches along the NC coastline!
 
 ![OBX](/images/OBX.webp)
 
 ## Hiking!
 
-Enjoying time to visit some of the parks and see the views in the appalachains!
+Always enjoy taking time to visit some of the parks and see the views in the appalachains!
 
 ![Hiking](/images/Mountains.jpg)
 
