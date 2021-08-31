@@ -10,23 +10,23 @@ I live in Charlotte NC with my family, dog, and two guninea pigs.
 
 # More Information 
 
-In our free time, we certainly enjoy getting out and seeing what North Carolina has to offer!
+In our free time we love getting out and enjoying what North Carolina has to offer!
 
 ## The beach!
 
-I can think of better places to be than all the beaches along the NC coastline!
+The beaches along the NC coastline are always a favorite destination!
 
 ![OBX](/images/OBX.webp)
 
-## Hiking!
+## The views!
 
-Always enjoy taking time to visit some of the parks and see the views in the appalachains!
+We certainly enjoy visiting the Smokey Mountains and taking in the views!
 
 ![Hiking](/images/Mountains.jpg)
 
 ## Local things to do in Charlotte
 
-Very much looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as the US National White Water Center!
+We are looking forward to enjoying some of the amenities Charlotte has once the pandemic subsides such as visiting the US National White Water Center!
 
 ![Rafting](/images/whitewater.jpg)
 
