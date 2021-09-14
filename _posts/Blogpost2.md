@@ -1,0 +1,18 @@
+Programming Background
+================
+Dave Bergeron
+9/13/2021
+
+## My Programming Background
+
+I enjoy learning and working with R and R Studio. So far it has been a
+pretty straightforward language to learn and apply. My only comparison
+thus far is Python. There are some similarities and some differences,
+but knowing one certainly helps understand the other better. In
+particular, I enjoy the object oriented aspects of the language. I miss
+using loops more as it sounds like that is not a functionality R is
+designed for. I do not consider R a difficult language to learn.
+
+## Example R Markdown output
+
+![](../images/plot%20iris-1.png)<!-- -->
