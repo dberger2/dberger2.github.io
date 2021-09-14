@@ -1,0 +1,25 @@
+---
+title: "Programming Background"
+author: "Dave Bergeron"
+date: "9/13/2021"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.path = "../images/")
+library(rmarkdown)
+```
+
+## My Programming Background
+
+Everyone in this course had some programming experience coming in (due to the prerequisites).  What are your thoughts on R vs whatever other software you've used?  What functionality do you like about R?  What parts do you miss about your other language?  Do you consider R a difficult language to learn?
+
+I enjoy learning and working with R and R Studio.  So far it has been a pretty straightforward language to learn and apply.  My only comparison thus far is Python.  There are some similarities and some differences, but knowing one certainly helps understand the other better. In particular, I enjoy the object oriented aspects of the language.  I miss using loops more as it sounds like that is not a functionality R is designed for.  I do not consider R a difficult language to learn.
+
+## Example R Markdown output
+
+
+```{r plot iris, echo=FALSE}
+plot(iris)
+```
+
