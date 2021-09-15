@@ -10,7 +10,7 @@ knitr::opts_chunk$set(fig.path = "../images/")
 library(rmarkdown)
 ```
 
-I really enjoy learning and working with R and R Studio.  So far it has been a pretty straightforward language to learn and apply.  My only comparison thus far is Python.  There are some similarities and some differences, but knowing one certainly helps understand the other better. In particular, I enjoy the object oriented aspects of the language.  I miss using loops more as it sounds like that is not a functionality R is designed for.  I do not consider R a difficult language to learn and look forward to continuing to progress in my understanding of it. I feel ST 558 will be very helpful in this endeavor.
+I really enjoy learning and working with R and R Studio.  So far it has been a pretty straightforward language to learn and apply.  My only comparison thus far is Python.  There are some similarities and some differences, but knowing one certainly helps understand the other better. In particular, I enjoy the object oriented aspects of the language.  I miss using loops more as it sounds like that is not a functionality R is designed for.  I do not consider R a difficult language to learn and look forward to continuing to progress in my understanding of it. I feel ST 558 will be very helpful in this endeavor!
 
 ## Example R Markdown output
 
