@@ -1,5 +1,5 @@
 ---
-title: "Blogpost 3"
+title: "Project 1"
 author: "Dave Bergeron"
 date: "10/5/2021"
 output: html_document
@@ -10,9 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(rmarkdown)
 ```
 
-# Blogpost 3 - Project 1
-
-This project a lot of fun!
+This project a was lot of fun!
 
 1) Explain what you did in the project and any interesting findings
 
